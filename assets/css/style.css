@@ -50,3 +50,20 @@ input {
 .btn-custom:hover {
     background-color: #f86713;
 }
+
+.btn-custom:focus,
+.btn-custom.focus {
+    background-color: #f86713;
+}
+
+.btn-custom:active,
+.btn-custom.active,
+.show>.btn-custom.dropdown-toogle:focus {
+    background-color: #f86713;
+}
+
+.btn-custom:active:focus,
+.btn-custom.active:focus,
+.show>.btn-custom.dropdown-toggle:focus {
+    background-color: #D25B2E;
+}
