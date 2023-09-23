@@ -1,0 +1,52 @@
+body {
+    background-color: #1C1E24;
+}
+
+a {
+    text-decoration: none;
+    color: #F0F0F0;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.custom-primary-bg {
+    background-color: #D25B2E;
+}
+
+.custom-secondary-bg {
+    background-color: #1C1E24;
+}
+
+.custom-tertiary-bg {
+    background-color: #F0F0F0;
+}
+
+.custom-primary-text {
+    color: #D25B2E;
+}
+
+.custom-secondary-text {
+    color: #1C1E24;
+}
+
+.custom-tertiary-text {
+    color: #F0F0F0;
+}
+
+input {
+    outline: none;
+}
+
+.btn-custom {
+    background-color: #F0F0F0;
+    color: #D25B2E;
+    border: none;
+    width: 50%;
+}
+
+.btn-custom:hover {
+    background-color: #f86713;
+}
